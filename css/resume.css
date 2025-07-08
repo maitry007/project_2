@@ -1,0 +1,44 @@
+body{
+  background-color: #f1ece5;
+}
+
+#resume ul li{
+  display: inline-block;
+  padding: 12px;
+  margin: 10px;
+  background-color: #545454;
+  width: 30%;
+  text-align: center;
+  font-color: white;
+  text-transform: uppercase;
+}
+
+#resume ul li a{
+  text-decoration: none;
+}
+
+#resume ul li:hover {
+  background-color: #ced1d4;
+}
+
+#p2{
+  float: right;
+}
+
+#pdetails h2{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    background-color: #bd9e89;
+    width: 250px;
+    border-radius: 30px;
+    color: white;
+}
+
+#footer{
+  display: inline-block;
+  background-color: #e4c9b2;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+}
